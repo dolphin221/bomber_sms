@@ -1,4 +1,4 @@
-import requests, random, datetime, sys, time, argparse, os, time
+import requests, random, datetime, sys, time, argparse, os
 banner = """
 █████████████████████████████████
 █────██────█─███─█────██───█────█
